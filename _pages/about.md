@@ -11,6 +11,7 @@ Hi! I am a first-year master's student at Ochanomizu University advised by [Ichi
 
 My research focuses on Trustworthy NLP, AI safety, LLM Interpretability, and representation analysis.
 
+CV is available [here](files/cv_yuri_ishitoya.pdf).
 Please feel free to email me! ✉️
 
 ## Education
