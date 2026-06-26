@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a first-year master's student at Ochanomizu University advised by [Ichiro Kobayashi](https://www.koba.is.ocha.ac.jp/kobalab/index.php/aboutus/ichirokobayashi/). I am currently a visiting student at [DFKI Saarbruecken](https://www.dfki.de/web/ueber-uns/standorte-kontakt/saarbruecken) in Germany and at [Rice University](https://vislang.ai/) in the United States. I am going to start my new position at OMRON SINIC X Corporation as a full-time research intern from January 2026.
+Hi! I am a second-year master's student at Ochanomizu University advised by [Ichiro Kobayashi](https://www.koba.is.ocha.ac.jp/kobalab/index.php/aboutus/ichirokobayashi/). I am currently a visiting student at [DFKI Saarbruecken](https://www.dfki.de/web/ueber-uns/standorte-kontakt/saarbruecken) in Germany and at [Rice University](https://vislang.ai/) in the United States. I am going to start my new position at OMRON SINIC X Corporation as a full-time research intern from January 2026.
 
 My research focuses on Trustworthy NLP, AI safety, LLM Interpretability, and representation analysis.
 
@@ -15,7 +15,8 @@ CV is available [here](files/cv_yuri_ishitoya.pdf).
 Please feel free to email me! ✉️
 
 ## Education
-- Ochanomizu University, Japan - M.S. in Information Science, Apr 2025 - Present
+- [incoming] Rice University, U.S. - Ph.D. in Computer Science, Aug 2026 - May 2031
+- Ochanomizu University, Japan - M.S. in Information Science (on leave from Aug 2026)
 - Ochanomizu University, Japan - B.S. in Information Science, Apr 2021 - Mar 2025
 
 
