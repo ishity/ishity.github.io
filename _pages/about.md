@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year master's student at Ochanomizu University advised by [Ichiro Kobayashi](https://www.koba.is.ocha.ac.jp/kobalab/index.php/aboutus/ichirokobayashi/). I am currently a visiting student at [DFKI Saarbruecken](https://www.dfki.de/web/ueber-uns/standorte-kontakt/saarbruecken) in Germany and at [Rice University](https://vislang.ai/) in the United States. I am going to start my new position at OMRON SINIC X Corporation as a full-time research intern from January 2026.
+Hi! I am a second-year master's student at Ochanomizu University advised by [Ichiro Kobayashi](https://www.koba.is.ocha.ac.jp/kobalab/index.php/aboutus/ichirokobayashi/). I am going to start my new position at OMRON SINIC X Corporation as a full-time research intern from January 2026.
 
 My research focuses on Trustworthy NLP, AI safety, LLM Interpretability, and representation analysis.
 
