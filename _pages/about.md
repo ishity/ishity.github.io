@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I am a second-year master's student at Ochanomizu University advised by [Ichiro Kobayashi](https://www.koba.is.ocha.ac.jp/kobalab/index.php/aboutus/ichirokobayashi/). I am going to start my new position at OMRON SINIC X Corporation as a full-time research intern from January 2026.
 
-My research focuses on Trustworthy NLP, AI safety, LLM Interpretability, and representation analysis.
+My research focuses on AI safety, LLM Interpretability, and representation analysis.
 
 CV is available [here](files/cv_yuri_ishitoya.pdf).
 Please feel free to email me! ✉️
