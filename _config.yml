@@ -27,10 +27,10 @@ author:
   avatar: "profile.jpg"
   name: "Yuri Ishitoya"
   pronouns: # example: "she/her"
-  bio: "Master’s Student in AI & NLP | Research Intern at OMRON SINIC X"
-  location: "Tokyo, Japan"
-  employer: "Ochanomizu University"
-  uri: # URL
+  bio: "PhD Student at Vislang Lab, Dept. of Computer Science, Rice University"
+  location: "Houston, USA"
+  employer: "Vislang Lab, Rice University"
+  uri: "https://vislang.ai/"
   email: "yuuri.isty [at] gmail.com"
 
   # Academic websites
