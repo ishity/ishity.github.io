@@ -27,16 +27,16 @@ author:
   avatar: "profile.jpg"
   name: "Yuri Ishitoya"
   pronouns: # example: "she/her"
-  bio: "PhD Student at Vislang Lab, Dept. of Computer Science, Rice University"
+  bio: "PhD Student at Vislang Lab, <br>Dept. of Computer Science, <br>Rice University"
   location: "Houston, USA"
-  employer: "Vislang Lab, Rice University"
-  uri: "https://vislang.ai/"
+  employer: 
+  uri: 
   email: "yuuri.isty [at] gmail.com"
 
   # Academic websites
   academia: # URL
   arxiv: # URL - Update with the correct link to your profile
-  googlescholar: # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar: "https://scholar.google.com/citations?user=cU76BU0AAAAJ&hl=ja"
   inspire-hep: # URL
   impactstory: # URL
   orcid: # "https://orcid.org/yourorcidurl"
