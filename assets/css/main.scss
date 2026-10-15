@@ -41,3 +41,38 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Home page: news list and publication entries with a teaser image */
+.news-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+/* Hanging indent, so a wrapped item lines up under its text instead of under the date. */
+.news-list li {
+  padding-left: 5.5em;
+  text-indent: -5.5em;
+  margin-bottom: 0.35em;
+}
+.news-date {
+  display: inline-block;
+  width: 5.5em;
+  text-indent: 0;
+  font-variant-numeric: tabular-nums;
+}
+
+/* The teaser figures are wide (about 4:1), so the image sits above the text at full width. */
+.pub {
+  margin-bottom: 1.5em;
+}
+.pub-teaser img {
+  display: block;
+  width: 100%;
+  margin-bottom: 0.6em;
+  border-radius: 4px;
+}
+.pub-title {
+  font-weight: bold;
+}
+.pub-links a {
+  margin-right: 0.4em;
+}
