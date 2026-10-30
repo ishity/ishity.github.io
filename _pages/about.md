@@ -11,6 +11,8 @@ Hi! I am a first-year Computer Science Ph.D. student at the [Vislang Lab](https:
 
 My research focuses on multimodal foundation models for embodied AI, especially **low-cost ways to add or strengthen capabilities of pretrained models while preserving what they already know**, from VLM-to-VLA adaptation to interventions on internal representations.
 
+**I am looking for research internship opportunities for Summer 2027**, especially in VLM-to-VLA adaptation, vision-language-action models, and multimodal foundation models for embodied AI. Please feel free to reach out!
+
 My CV is available [here](files/cv_yuriishitoya.pdf).  
 Feel free to reach out by email at Yuri.Ishitoya[at]rice.edu! ✉️
 
